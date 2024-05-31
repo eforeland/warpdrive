@@ -1,0 +1,67 @@
+:root { 
+  --tryllumejewelrycomblack: #000000;
+  --tryllumejewelrycombridal-heath: #fef9ef;
+  --tryllumejewelrycomgallery: #ececec;
+  --tryllumejewelrycommandys-pink: #f4c0b3;
+  --tryllumejewelrycomnero: #ffffff;
+  --tryllumejewelrycomnero-nero: #ffffff;
+  --tryllumejewelrycomwild-sand: #f7f7f7;
+ 
+  --font-size-l: 15.5px;
+  --font-size-m: 14.5px;
+  --font-size-s: 13.5px;
+  --font-size-xl: 17.4px;
+  --font-size-xxl: 18.4px;
+  --font-size-xxxl: 27px;
+  --font-size-xxxxl: 29px;
+ 
+  --font-family-libre_caslon_display: "Libre Caslon Display", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+}
+.opensans-normal-black-14-5px {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.librecaslondisplay-normal-black-17-4px {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-libre_caslon_display);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.librecaslondisplay-normal-black-27px {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-libre_caslon_display);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.opensans-normal-white-15-5px {
+  color: var(--tryllumejewelrycomnero);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.opensans-normal-white-13-5px {
+  color: var(--tryllumejewelrycomnero);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.librecaslondisplay-normal-black-14-5px {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-libre_caslon_display);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}

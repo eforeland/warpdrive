@@ -1,0 +1,1019 @@
+/* screen - frame-1 */
+
+.frame-1 {
+  align-items: center;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  min-height: 5874.27px;
+  min-width: 390px;
+  position: relative;
+  width: 100%;
+}
+
+.frame-1 .tryllumejewelrycom-b::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-1 .tryllumejewelrycom-b {
+  align-items: center;
+  background-color: var(--tryllumejewelrycomnero);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  height: 5874.27px;
+  justify-content: center;
+  overflow-y: scroll;
+  position: relative;
+}
+
+.frame-1 .main {
+  height: 5874.27px;
+  position: relative;
+  width: 390px;
+}
+
+.frame-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 5874px;
+}
+
+.frame-1 .section {
+  align-items: flex-end;
+  background-color: var(--tryllumejewelrycommandys-pink);
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  min-height: 89px;
+  padding: 5.5px 25.4px;
+  width: 390px;
+}
+
+.frame-1 .save-69-when-you-pu {
+  color: var(--tryllumejewelrycomnero);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  height: 37px;
+  letter-spacing: 0;
+  line-height: 18.5px;
+  text-align: center;
+  width: 338px;
+}
+
+.frame-1 .link {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--tryllumejewelrycomnero);
+  border-radius: 3px;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  margin-right: 0.98px;
+  min-width: 194px;
+  padding: 4.9px 59.0px;
+}
+
+.frame-1 .shop-now-2 {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  height: 16px;
+  line-height: 16.2px;
+  width: 76px;
+}
+
+.frame-1 .overlap-group5 {
+  height: 577px;
+  position: relative;
+  width: 390px;
+}
+
+.frame-1 .section-1 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--tryllumejewelrycomgallery);
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  height: 44px;
+  left: 0;
+  min-width: 390px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-1 .background {
+  align-items: flex-end;
+  background-color: var(--tryllumejewelrycomnero);
+  display: flex;
+  height: 44px;
+  margin-left: -1px;
+  margin-top: -1px;
+  min-width: 390px;
+  padding: 10.0px 141.4px;
+}
+
+.frame-1 .link-1 {
+  background-image: url(../img/64531473-0-llume-new-logo-big-2-webp@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 21px;
+  width: 106px;
+}
+
+.frame-1 .background-container {
+  height: 533px;
+  top: 44px;
+}
+
+.frame-1 .background-1 {
+  background-color: var(--tryllumejewelrycomblack);
+  height: 533px;
+  opacity: 0.12;
+  top: 0;
+}
+
+.frame-1 .background-2 {
+  align-items: center;
+  background-image: url(../img/background.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 533px;
+  padding: 28.7px 23.3px;
+  top: 0;
+}
+
+.frame-1 .heading-1-just-launched {
+  color: var(--tryllumejewelrycomnero);
+  font-family: var(--font-family-libre_caslon_display);
+  font-size: 36.7px;
+  font-weight: 400;
+  height: 46px;
+  letter-spacing: 0;
+  line-height: 37.0px;
+  margin-left: 4.19px;
+  margin-top: 243px;
+  text-align: center;
+  width: 292px;
+}
+
+.frame-1 .dont-let-sold-out-h {
+  align-self: flex-end;
+  color: var(--tryllumejewelrycomnero);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 24.4px;
+  margin-top: 11px;
+  text-align: center;
+  width: 339px;
+}
+
+.frame-1 .link-2 {
+  align-items: flex-start;
+  background-color: var(--tryllumejewelrycomblack);
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  margin-left: 2.92px;
+  margin-top: 27px;
+  min-width: 315px;
+  padding: 23.0px 120.8px;
+}
+
+.frame-1 .shop-now {
+  height: 16px;
+  letter-spacing: 0;
+  line-height: 16.2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.frame-1 .get-yours-before-its-gone {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 25.4px;
+  margin-left: 5.79px;
+  margin-top: 15px;
+  text-align: center;
+  white-space: nowrap;
+  width: 189px;
+}
+
+.frame-1 .section-2 {
+  align-items: center;
+  background-color: var(--tryllumejewelrycomnero);
+  display: flex;
+  flex-direction: column;
+  min-height: 96px;
+  padding: 11.7px 18.5px;
+  width: 390px;
+}
+
+.frame-1 .horizontal-border {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--tryllumejewelrycomblack);
+  height: 11px;
+  margin-left: 1.93px;
+  width: 349px;
+}
+
+.frame-1 .heading-1-free-shi {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-libre_caslon_display);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 23px;
+  line-height: 26.3px;
+  margin-left: 3.06px;
+  margin-top: 18px;
+  text-align: center;
+  width: 301px;
+}
+
+.frame-1 .horizontal-border-1 {
+  align-self: flex-end;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--tryllumejewelrycomblack);
+  height: 11px;
+  margin-top: 9px;
+  width: 351px;
+}
+
+.frame-1 .section-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 674px;
+  padding: 0 17.6px;
+  width: 390px;
+}
+
+.frame-1 .image-background {
+  align-self: center;
+  height: 341px;
+  object-fit: cover;
+  width: 351px;
+}
+
+.frame-1 .gorgeous-layers-of-gold {
+  height: 66px;
+  letter-spacing: 0;
+  line-height: 33.2px;
+  margin-left: 1.94px;
+  margin-top: 18px;
+  width: 286px;
+}
+
+.frame-1 .the-kismet-solstice {
+  height: 121px;
+  letter-spacing: 0;
+  line-height: 20.5px;
+  margin-left: 1.94px;
+  margin-top: 15px;
+  width: 346px;
+}
+
+.frame-1 .link-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--tryllumejewelrycomblack);
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  margin-top: 22px;
+  min-width: 353px;
+  padding: 23.0px 139.8px;
+}
+
+.frame-1 .section-container {
+  height: 1353px;
+  position: relative;
+  width: 390px;
+}
+
+.frame-1 .section-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 615px;
+  padding: 1.9px 15.6px;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.frame-1 .heading-1-why-llume {
+  height: 33px;
+  letter-spacing: 0;
+  line-height: 33.2px;
+  margin-left: 4.86px;
+  margin-top: 19px;
+  white-space: nowrap;
+}
+
+.frame-1 .llume-is-about-sayin {
+  height: 80px;
+  letter-spacing: 0;
+  line-height: 20.5px;
+  margin-left: 3.89px;
+  margin-top: 15px;
+  width: 328px;
+}
+
+.frame-1 .link-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--tryllumejewelrycomblack);
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  margin-top: 21px;
+  min-width: 354px;
+  padding: 22.1px 135.0px;
+}
+
+.frame-1 .shop-now-1 {
+  height: 19px;
+  line-height: 18.5px;
+  width: 84px;
+}
+
+.frame-1 .section-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 738px;
+  padding: 0 18.5px;
+  position: absolute;
+  top: 615px;
+  width: 390px;
+}
+
+.frame-1 .image-background-1 {
+  height: 341px;
+  margin-left: 0;
+  object-fit: cover;
+  width: 351px;
+}
+
+.frame-1 .heading-1-meet-the-lineup {
+  height: 33px;
+  letter-spacing: 0;
+  line-height: 33.2px;
+  margin-top: 18px;
+  white-space: nowrap;
+}
+
+.frame-1 .the-kismet-solstice-set-contains {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24.4px;
+  margin-left: 0.98px;
+  margin-top: 8px;
+  white-space: nowrap;
+}
+
+.frame-1 .overlap-group1 {
+  height: 71px;
+  margin-left: 1.95px;
+  margin-top: 12px;
+  position: relative;
+  width: 253px;
+}
+
+.frame-1 .x1-kismet-necklace-20 {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 18px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 164px;
+}
+
+.frame-1 .strong-2-marie-chain-16 {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 54px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17.5px;
+  position: absolute;
+  top: 17px;
+  width: 253px;
+}
+
+.frame-1 .link-5 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--tryllumejewelrycomblack);
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  margin-right: 19.51px;
+  margin-top: 30px;
+  min-width: 315px;
+  padding: 21.6px 115.5px;
+}
+
+.frame-1 .section-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 746px;
+  padding: 0 13.7px;
+  width: 390px;
+}
+
+.frame-1 .image-background-2 {
+  align-self: center;
+  height: 409px;
+  object-fit: cover;
+  width: 351px;
+}
+
+.frame-1 .elevate-your-capsule-wardrobe {
+  align-self: flex-start;
+  height: 66px;
+  letter-spacing: 0;
+  line-height: 33.2px;
+  margin-left: 5.84px;
+  margin-top: 31px;
+  width: 313px;
+}
+
+.frame-1 .if-youve-been-looki {
+  height: 101px;
+  letter-spacing: 0;
+  line-height: 20.5px;
+  margin-right: 9.35px;
+  margin-top: 14px;
+  width: 347px;
+}
+
+.frame-1 .link-6 {
+  align-items: flex-start;
+  background-color: var(--tryllumejewelrycomblack);
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  margin-top: 21px;
+  min-width: 357px;
+  padding: 22.1px 136.4px;
+}
+
+.frame-1 .section-7 {
+  background-color: var(--tryllumejewelrycombridal-heath);
+  height: 59px;
+  width: 390px;
+}
+
+.frame-1 .section-container-1 {
+  height: 1012px;
+}
+
+.frame-1 .section-8 {
+  align-items: flex-end;
+  background-color: var(--tryllumejewelrycombridal-heath);
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  left: 0;
+  min-height: 125px;
+  padding: 0 99.1px;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.frame-1 .loved-by-over-500000-women {
+  height: 66px;
+  letter-spacing: 0;
+  line-height: 33.2px;
+  text-align: center;
+  width: 192px;
+}
+
+.frame-1 .heading-1-1 {
+  align-self: center;
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-libre_caslon_display);
+  font-size: 23.2px;
+  font-weight: 400;
+  height: 28px;
+  line-height: 23.4px;
+  margin-left: 0.18px;
+  text-align: center;
+  width: 116px;
+}
+
+.frame-1 .section-9 {
+  align-items: flex-start;
+  background-color: var(--tryllumejewelrycombridal-heath);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 887px;
+  padding: 7.8px 17.5px;
+  position: absolute;
+  top: 125px;
+  width: 390px;
+}
+
+.frame-1 .name {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-open_sans);
+  font-size: 12.6px;
+  font-weight: 400;
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 17.5px;
+  white-space: nowrap;
+}
+
+.frame-1 .heading-1-2 {
+  height: 22px;
+  line-height: 21.5px;
+  margin-top: 7px;
+}
+
+.frame-1 .verified-buyer {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-open_sans);
+  font-size: 11.6px;
+  font-weight: 400;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: 16.6px;
+  white-space: nowrap;
+}
+
+.frame-1 .heading-1-its-perfect {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 21.5px;
+  margin-top: 17px;
+  white-space: nowrap;
+}
+
+.frame-1 .i-love-this-piece {
+  height: 80px;
+  letter-spacing: 0;
+  line-height: 20.5px;
+  margin-top: 10px;
+  width: 336px;
+}
+
+.frame-1 .name-1 {
+  font-size: 12.8px;
+  height: 18px;
+  line-height: 17.5px;
+  margin-top: 41px;
+}
+
+.frame-1 .heading-1-3 {
+  height: 22px;
+  line-height: 21.5px;
+  margin-top: 9px;
+}
+
+.frame-1 .verified-buyer-1 {
+  font-size: 11.8px;
+  height: 16px;
+  line-height: 16.6px;
+  margin-top: 1px;
+}
+
+.frame-1 .heading-1-super-cute-piece {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 21.5px;
+  margin-top: 13px;
+  white-space: nowrap;
+}
+
+.frame-1 .love-this-simple-an {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: 20.5px;
+  margin-top: 12px;
+  white-space: nowrap;
+}
+
+.frame-1 .name-2 {
+  font-size: 11.7px;
+  height: 16px;
+  line-height: 16.6px;
+  margin-top: 63px;
+}
+
+.frame-1 .heading-1-4 {
+  height: 22px;
+  line-height: 21.5px;
+  margin-top: 8px;
+}
+
+.frame-1 .verified-buyer-2 {
+  font-size: 10.8px;
+  height: 15px;
+  line-height: 14.6px;
+}
+
+.frame-1 .heading-1 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 21.5px;
+  margin-top: 14px;
+  white-space: nowrap;
+}
+
+.frame-1 .i-am-so-in-love-wit {
+  height: 60px;
+  letter-spacing: 0;
+  line-height: 20.5px;
+  margin-top: 10px;
+  width: 327px;
+}
+
+.frame-1 .name-3 {
+  font-size: 12.1px;
+  height: 17px;
+  line-height: 16.6px;
+  margin-top: 41px;
+}
+
+.frame-1 .overlap-group {
+  height: 36px;
+  margin-top: 9px;
+  position: relative;
+  width: 87px;
+}
+
+.frame-1 .verified-buyer-3 {
+  font-size: 11.2px;
+  height: 15px;
+  left: 0;
+  line-height: 14.6px;
+  position: absolute;
+  top: 21px;
+  width: 74px;
+}
+
+.frame-1 .heading-1-5 {
+  height: 22px;
+  left: 0;
+  line-height: 21.5px;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}
+
+.frame-1 .love-this-chain-it {
+  height: 101px;
+  letter-spacing: 0;
+  line-height: 20.5px;
+  margin-top: 15px;
+  width: 347px;
+}
+
+.frame-1 .section-10 {
+  align-items: center;
+  background-color: var(--tryllumejewelrycomwild-sand);
+  display: flex;
+  flex-direction: column;
+  min-height: 621px;
+  width: 390px;
+}
+
+.frame-1 .image-background-3 {
+  height: 324px;
+  object-fit: cover;
+  width: 390px;
+}
+
+.frame-1 .heading-1-limited-time-only {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-libre_caslon_display);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 29.2px;
+  margin-left: 1.33px;
+  margin-top: 14px;
+  text-align: center;
+  width: 207px;
+}
+
+.frame-1 .heading-1-order-today-and {
+  height: 33px;
+  letter-spacing: 0;
+  line-height: 27.3px;
+  margin-left: 0.33px;
+  margin-top: 6px;
+  text-align: center;
+  width: 170px;
+}
+
+.frame-1 .heading-1-save-69 {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-libre_caslon_display);
+  font-size: 45.4px;
+  font-weight: 400;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 45.8px;
+  margin-left: 0.36px;
+  margin-top: 3px;
+  text-align: center;
+  width: 189px;
+}
+
+.frame-1 .heading-1-on-the-kismet-solstice-set {
+  height: 33px;
+  letter-spacing: 0;
+  line-height: 27.3px;
+  margin-right: 0.68px;
+  margin-top: 5px;
+  text-align: center;
+  width: 273px;
+}
+
+.frame-1 .link-7 {
+  align-items: flex-start;
+  background-color: var(--tryllumejewelrycomblack);
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  margin-right: 0.99px;
+  margin-top: 13px;
+  min-width: 352px;
+  padding: 22.9px 139.3px;
+}
+
+.frame-1 .section-container-2 {
+  height: 647px;
+}
+
+.frame-1 .section-11 {
+  align-items: flex-start;
+  display: flex;
+  height: 120px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 390px;
+  padding: 9.8px 16.5px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-1 .overlap-group3 {
+  height: 88px;
+  position: relative;
+  width: 65px;
+}
+
+.frame-1 .free-us-shipping {
+  height: 41px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20.5px;
+  position: absolute;
+  text-align: center;
+  top: 48px;
+  width: 65px;
+}
+
+.frame-1 .x1716994732-64571076-49x49-fspng {
+  background-image: url(../img/1716994732-64571076-49x49-fs-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 48px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.frame-1 .overlap-group2 {
+  height: 94px;
+  margin-left: 57px;
+  position: relative;
+  width: 65px;
+}
+
+.frame-1 .easy-returns {
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  position: absolute;
+  text-align: center;
+  top: 47px;
+  width: 65px;
+}
+
+.frame-1 .x1716994733-64571075-49x49-erpng {
+  background-image: url(../img/1716994733-64571075-49x49-er-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 48px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.frame-1 .overlap-group4 {
+  height: 94px;
+  margin-left: 37px;
+  position: relative;
+  width: 125px;
+}
+
+.frame-1 .x100-recyclable-packaging {
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  position: absolute;
+  text-align: center;
+  top: 47px;
+  width: 125px;
+}
+
+.frame-1 .x1716994734-64571077-49x49-rpng {
+  background-image: url(../img/1716994734-64571077-49x49-r-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 48px;
+  left: 39px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.frame-1 .section-12 {
+  align-items: flex-start;
+  background-color: var(--tryllumejewelrycomnero);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 527px;
+  padding: 19.5px 14.6px;
+  position: absolute;
+  top: 120px;
+  width: 390px;
+}
+
+.frame-1 .heading-1-free-us {
+  height: 22px;
+  line-height: 24.4px;
+}
+
+.frame-1 .most-orders-ship-nex {
+  height: 39px;
+  letter-spacing: 0;
+  line-height: 20.5px;
+  margin-top: 6px;
+  width: 251px;
+}
+
+.frame-1 .mispelled-shipping-faq {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  margin-top: 14px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.frame-1 .returns {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  margin-top: 25px;
+  white-space: nowrap;
+}
+
+.frame-1 .section-item {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  margin-top: 6px;
+  white-space: nowrap;
+}
+
+.frame-1 .privacy-policy {
+  height: 23px;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  margin-top: 1px;
+  white-space: nowrap;
+}
+
+.frame-1 .heading-1-contact {
+  height: 22px;
+  line-height: 28.3px;
+  margin-top: 33px;
+}
+
+.frame-1 .were-an-email-away {
+  height: 39px;
+  letter-spacing: 0;
+  line-height: 20.5px;
+  margin-top: 9px;
+  width: 185px;
+}
+
+.frame-1 .x1716994731-64531494-441x37-paymentpng {
+  align-self: center;
+  background-image: url(../img/1716994731-64531494-441x37-payment-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 29px;
+  margin-top: 35px;
+  width: 351px;
+}
+
+.frame-1 .copyright {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 21.5px;
+  margin-top: 58px;
+  white-space: nowrap;
+}
+
+.frame-1 .background-3 {
+  left: 0;
+  position: absolute;
+  width: 390px;
+}
+
+.frame-1 .heading-1-6 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.frame-1 .heading-1-free {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.frame-1 .name-4 {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-open_sans);
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.frame-1 .section-container-3 {
+  position: relative;
+  width: 390px;
+}
+
+.frame-1 .shop-now-3 {
+  letter-spacing: 0;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.frame-1 .verified-buyer-4 {
+  color: var(--tryllumejewelrycomblack);
+  font-family: var(--font-family-open_sans);
+  font-weight: 400;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
